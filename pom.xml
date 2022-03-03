@@ -123,6 +123,12 @@
       <version>0.0.20131108.vaadin1</version>
       <scope>compile</scope>
     </dependency>
+  
+    <dependency>
+      <groupId>org.json</groupId>
+      <artifactId>json</artifactId>
+      <version>20190722</version>
+    </dependency>
   </dependencies>
 
   <!-- Build section -->
